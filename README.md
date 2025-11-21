@@ -1,7 +1,7 @@
 # Hearts of Iron IV DLC Unlocker
 
 [![Version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/your-repo)
-[![HOI4](https://img.shields.io/badge/HOI4-1.16.9-green.svg)](https://www.paradoxinteractive.com/games/hearts-of-iron-iv/about)
+[![HOI4](https://img.shields.io/badge/HOI4-1.17.0-green.svg)](https://www.paradoxinteractive.com/games/hearts-of-iron-iv/about)
 
 Полный разблокировщик всех DLC для Hearts of Iron IV с автоматической установкой.
 
